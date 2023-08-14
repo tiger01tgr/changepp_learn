@@ -10,9 +10,11 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <h1>Abuut Me</h1>
-        <p>Hi, my name is Cornelius.</p>
-        <p>My hometown is Staten Island.</p>
+        <h1>About Me</h1>
+        <p>Hi, my name is Anna.</p>
+        <p>My hometown is Nashville.</p><p> If you want to know about the best place to get hot chicken in Nashville,
+          I have a list right here!</p><img src="https://i.pinimg.com/originals/60/c1/4a/60c14a43fb4745795b3b358868517e79.png"
+                                            alt="Hot Chicken QR" width="400" height="400"></img>
       </main>
     </>
   )
