@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
       <main>
         <h1>Abuut Me</h1>
-        <p>Hi, my name is Cornelius.</p>
-        <p>My hometown is Staten Island.</p>
+        <p>Hi, my name is Janice.</p>
+        <p>My hometown is Fort Lee. This is the first time I'm using GitHub and Git.</p>
       </main>
     </>
   )
