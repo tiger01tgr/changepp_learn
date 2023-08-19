@@ -10,9 +10,9 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        <h1>Abuut Me</h1>
-        <p>Hi, my name is Cornelius.</p>
-        <p>My hometown is Staten Island.</p>
+        <h1>About Me</h1>
+        <p>Hi, my name is Yifei!</p>
+        <p>My hometown is Sugar Land, Texas.</p>
       </main>
     </>
   )
